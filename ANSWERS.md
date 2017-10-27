@@ -26,3 +26,5 @@ In application.html.erb, at the end of the file it has render 'layout/messages' 
 I learned a lot! But it took a lot of googling and StackOverflow.
 
 # Extra credit: Link your Heroku deployed app
+
+https://github.com/nguyenmegan/proj1
